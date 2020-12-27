@@ -1,0 +1,220 @@
+was slain by PLAYER
+was slain by PLAYER FINAL KILL!
+was shot by PLAYER
+was shot by PLAYER FINAL KILL!
+was thrown into the void by PLAYER
+was thrown into the void by PLAYER FINAL KILL!
+was doomed to fall by PLAYER
+was doomed to fall by PLAYER FINAL KILL!
+was toasted by PLAYER
+was toasted by PLAYER FINAL KILL!
+was killed by PLAYER
+was killed by PLAYER FINAL KILL!
+was bomberman'd by PLAYER
+was bomberman'd by PLAYER FINAL KILL!
+was Bomberman'd by PLAYER
+was Bomberman'd by PLAYER FINAL KILL!
+was thrown off a cliff by PLAYER
+was thrown off a cliff by PLAYER FINAL KILL!
+was shot and killed by PLAYER
+was shot and killed by PLAYER FINAL KILL!
+was snowballed to death by PLAYER
+was snowballed to death by PLAYER FINAL KILL!
+was killed with a potion by PLAYER
+was killed with a potion by PLAYER FINAL KILL!
+was killed with an explosion by PLAYER
+was killed with an explosion by PLAYER FINAL KILL!
+was killed with magic by PLAYER
+was killed with magic by PLAYER FINAL KILL!
+was filled full of lead by PLAYER
+was filled full of lead by PLAYER FINAL KILL!
+was iced by PLAYER
+was iced by PLAYER FINAL KILL!
+met their end by PLAYER
+met their end by PLAYER FINAL KILL!
+lost a drinking contest with PLAYER
+lost a drinking contest with PLAYER FINAL KILL!
+was killed with dynamite by PLAYER
+was killed with dynamite by PLAYER FINAL KILL!
+lost the draw to PLAYER
+lost the draw to PLAYER FINAL KILL!
+was struck down by PLAYER
+was struck down by PLAYER FINAL KILL!
+was turned to dust by PLAYER
+was turned to dust by PLAYER FINAL KILL!
+was turned to ash by PLAYER
+was turned to ash by PLAYER FINAL KILL!
+was melted by PLAYER
+was melted by PLAYER FINAL KILL!
+was incinerated by PLAYER
+was incinerated by PLAYER FINAL KILL!
+was vaporized by PLAYER
+was vaporized by PLAYER FINAL KILL!
+was struck with Cupid's arrow by PLAYER
+was struck with Cupid's arrow by PLAYER FINAL KILL!
+was given the cold shoulder by PLAYER
+was given the cold shoulder by PLAYER FINAL KILL!
+was hugged too hard by PLAYER
+was hugged too hard by PLAYER FINAL KILL!
+drank a love potion from PLAYER
+drank a love potion from PLAYER FINAL KILL!
+was hit by a love bomb from PLAYER
+was hit by a love bomb from PLAYER FINAL KILL!
+was no match for PLAYER
+was no match for PLAYER FINAL KILL!
+was smote from afar by PLAYER
+was smote from afar by PLAYER FINAL KILL!
+was justly ended by PLAYER
+was justly ended by PLAYER FINAL KILL!
+was purified by PLAYER
+was purified by PLAYER FINAL KILL!
+was killed with holy water by PLAYER
+was killed with holy water by PLAYER FINAL KILL!
+was dealt vengeful justice by PLAYER
+was dealt vengeful justice by PLAYER FINAL KILL!
+was returned to dust by PLAYER
+was returned to dust by PLAYER FINAL KILL!
+be shot and killed by PLAYER
+be shot and killed by PLAYER FINAL KILL!
+be snowballed to death by PLAYER
+be snowballed to death by PLAYER FINAL KILL!
+be sent to Davy Jones' locker by PLAYER
+be sent to Davy Jones' locker by PLAYER FINAL KILL!
+be killed with rum by PLAYER
+be killed with rum by PLAYER FINAL KILL!
+be shot with cannon by PLAYER
+be shot with cannon by PLAYER FINAL KILL!
+be killed with magic by PLAYER
+be killed with magic by PLAYER FINAL KILL!
+was glazed in BBQ sauce by PLAYER
+was glazed in BBQ sauce by PLAYER FINAL KILL!
+was sprinkled with chilli powder by PLAYER
+was sprinkled with chilli powder by PLAYER FINAL KILL!
+was sprinkled with chili powder by PLAYER
+was sprinkled with chili powder by PLAYER FINAL KILL!
+was sliced up by PLAYER
+was sliced up by PLAYER FINAL KILL!
+was overcooked by PLAYER
+was overcooked by PLAYER FINAL KILL!
+was deep fried by PLAYER
+was deep fried by PLAYER FINAL KILL!
+was boiled by PLAYER
+was boiled by PLAYER FINAL KILL!
+was spooked by PLAYER
+was spooked by PLAYER FINAL KILL!
+was spooked off the map by PLAYER
+was spooked off the map by PLAYER FINAL KILL!
+was totally spooked by PLAYER
+was totally spooked by PLAYER FINAL KILL!
+was remotely spooked by PLAYER
+was remotely spooked by PLAYER FINAL KILL!
+was slain by PLAYER.
+was slain by PLAYER. FINAL KILL!
+was shot by PLAYER.
+was shot by PLAYER. FINAL KILL!
+was thrown into the void by PLAYER.
+was thrown into the void by PLAYER. FINAL KILL!
+was doomed to fall by PLAYER.
+was doomed to fall by PLAYER. FINAL KILL!
+was toasted by PLAYER.
+was toasted by PLAYER. FINAL KILL!
+was killed by PLAYER.
+was killed by PLAYER. FINAL KILL!
+was bomberman'd by PLAYER.
+was bomberman'd by PLAYER. FINAL KILL!
+was Bomberman'd by PLAYER.
+was Bomberman'd by PLAYER. FINAL KILL!
+was thrown off a cliff by PLAYER.
+was thrown off a cliff by PLAYER. FINAL KILL!
+was shot and killed by PLAYER.
+was shot and killed by PLAYER. FINAL KILL!
+was snowballed to death by PLAYER.
+was snowballed to death by PLAYER. FINAL KILL!
+was killed with a potion by PLAYER.
+was killed with a potion by PLAYER. FINAL KILL!
+was killed with an explosion by PLAYER.
+was killed with an explosion by PLAYER. FINAL KILL!
+was killed with magic by PLAYER.
+was killed with magic by PLAYER. FINAL KILL!
+was filled full of lead by PLAYER.
+was filled full of lead by PLAYER. FINAL KILL!
+was iced by PLAYER.
+was iced by PLAYER. FINAL KILL!
+met their end by PLAYER.
+met their end by PLAYER. FINAL KILL!
+lost a drinking contest with PLAYER.
+lost a drinking contest with PLAYER. FINAL KILL!
+was killed with dynamite by PLAYER.
+was killed with dynamite by PLAYER. FINAL KILL!
+lost the draw to PLAYER.
+lost the draw to PLAYER. FINAL KILL!
+was struck down by PLAYER.
+was struck down by PLAYER. FINAL KILL!
+was turned to dust by PLAYER.
+was turned to dust by PLAYER. FINAL KILL!
+was turned to ash by PLAYER.
+was turned to ash by PLAYER. FINAL KILL!
+was melted by PLAYER.
+was melted by PLAYER. FINAL KILL!
+was incinerated by PLAYER.
+was incinerated by PLAYER. FINAL KILL!
+was vaporized by PLAYER.
+was vaporized by PLAYER. FINAL KILL!
+was struck with Cupid's arrow by PLAYER.
+was struck with Cupid's arrow by PLAYER. FINAL KILL!
+was given the cold shoulder by PLAYER.
+was given the cold shoulder by PLAYER. FINAL KILL!
+was hugged too hard by PLAYER.
+was hugged too hard by PLAYER. FINAL KILL!
+drank a love potion from PLAYER.
+drank a love potion from PLAYER. FINAL KILL!
+was hit by a love bomb from PLAYER.
+was hit by a love bomb from PLAYER. FINAL KILL!
+was no match for PLAYER.
+was no match for PLAYER. FINAL KILL!
+was smote from afar by PLAYER.
+was smote from afar by PLAYER. FINAL KILL!
+was justly ended by PLAYER.
+was justly ended by PLAYER. FINAL KILL!
+was purified by PLAYER.
+was purified by PLAYER. FINAL KILL!
+was killed with holy water by PLAYER.
+was killed with holy water by PLAYER. FINAL KILL!
+was dealt vengeful justice by PLAYER.
+was dealt vengeful justice by PLAYER. FINAL KILL!
+was returned to dust by PLAYER.
+was returned to dust by PLAYER. FINAL KILL!
+be shot and killed by PLAYER.
+be shot and killed by PLAYER. FINAL KILL!
+be snowballed to death by PLAYER.
+be snowballed to death by PLAYER. FINAL KILL!
+be sent to Davy Jones' locker by PLAYER.
+be sent to Davy Jones' locker by PLAYER. FINAL KILL!
+be killed with rum by PLAYER.
+be killed with rum by PLAYER. FINAL KILL!
+be shot with cannon by PLAYER.
+be shot with cannon by PLAYER. FINAL KILL!
+be killed with magic by PLAYER.
+be killed with magic by PLAYER. FINAL KILL!
+was glazed in BBQ sauce by PLAYER.
+was glazed in BBQ sauce by PLAYER. FINAL KILL!
+was sprinkled with chilli powder by PLAYER.
+was sprinkled with chilli powder by PLAYER. FINAL KILL!
+was sprinkled with chili powder by PLAYER.
+was sprinkled with chili powder by PLAYER. FINAL KILL!
+was sliced up by PLAYER.
+was sliced up by PLAYER. FINAL KILL!
+was overcooked by PLAYER.
+was overcooked by PLAYER. FINAL KILL!
+was deep fried by PLAYER.
+was deep fried by PLAYER. FINAL KILL!
+was boiled by PLAYER.
+was boiled by PLAYER. FINAL KILL!
+was spooked by PLAYER.
+was spooked by PLAYER. FINAL KILL!
+was spooked off the map by PLAYER.
+was spooked off the map by PLAYER. FINAL KILL!
+was totally spooked by PLAYER.
+was totally spooked by PLAYER. FINAL KILL!
+was remotely spooked by PLAYER.
+was remotely spooked by PLAYER. FINAL KILL!
